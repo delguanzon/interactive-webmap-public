@@ -34,7 +34,6 @@ This is just a quick project to test out and build an interactive web map using 
 `VITE_REACT_APP_MAPBOX_TOKEN="<Paste_Token_Here>"`
 
 ### Setup
-
 * Navigate to the project folder
 * Run ``` $npm install ``` to install dependencies
 * For building and live preview, use ```npm run dev```
@@ -47,7 +46,7 @@ This is just a quick project to test out and build an interactive web map using 
 
 Alternatively, you can view the app through the follwing link:
 
-* < https://butcher-bros-co-frontend.vercel.app/ >
+* < /https://interactive-webmap.vercel.app/ >
 
 ## License
 
